@@ -13,6 +13,7 @@ Cloud & DevOps: Github
 Tools & Methodologies: RESTful APIs, VS Code, Linux
 
 ✨ Projects I Work On
+
 I love bringing ideas to life through code. My projects typically involve:
 
 Building dynamic web applications that solve real-world problems.
