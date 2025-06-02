@@ -31,5 +31,5 @@ I'm always open to collaborating on interesting projects or discussing new techn
 
 LinkedIn: www.linkedin.com/in/saud-bin-abdul-mutallib
 
-github portfolio: https://saudbinabdulmutalib.github.io/
+github portfolio: https://saud-cs.github.io/
 
