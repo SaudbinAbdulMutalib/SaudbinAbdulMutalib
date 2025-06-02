@@ -30,4 +30,5 @@ You can explore some of my work right here on GitHub, where I showcase everythin
 I'm always open to collaborating on interesting projects or discussing new technologies. Feel free to connect with me!
 
 LinkedIn: www.linkedin.com/in/saud-bin-abdul-mutallib
+github portfolio: https://saudbinabdulmutalib.github.io/
 
